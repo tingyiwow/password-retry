@@ -8,6 +8,3 @@ while n > 0:
 	else:
 		n = n - 1
 		print('密碼錯誤！還有', n,'次機會')
-		if n == 0:
-			break
-		
